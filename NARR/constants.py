@@ -1,5 +1,5 @@
 import os, logging, datetime, util, multiprocessing, pdb, ast
-from ConfigParser import SafeConfigParser
+from configparser import SafeConfigParser
 import logging.handlers
 
 # Parse config file
